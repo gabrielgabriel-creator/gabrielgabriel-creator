@@ -4,8 +4,6 @@ Gabriel Fernandes[](https://git.io/typing-svg)[](https://linkedin.com/in/gabriel
 
 💼 Objetivo atual: Conquistar minha primeira oportunidade de estágio em Desenvolvimento de Software.
 
-🚀 Stack TecnológicoLinguagens, Frameworks e Testes[](https://skillicons.dev)Banco de Dados, Cloud e Ferramentas[](https://skillicons.dev)
-
 💻 Portfólio em Destaque🎮 ProjetoGamodanAplicação Web Full StackComponentização de interface (modais e formulários) com Angular 22 e garantia de estabilidade aplicando testes unitários automatizados com Vitest, JSDOM e Angular Testing Library.
 
 🕹️ Agregador FreeToGameIntegração de APIs (Em Breve)Consumo da API pública FreeToGame para encontrar e divulgar diariamente promoções de jogos. Foco em requisições HTTP, manipulação de estado e renderização de dados assíncronos.
